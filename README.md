@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to Zager-Zhang's GitHub page!
 
-- 🔭 I'm Mingjie Zhang (张明杰), an first-year MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://robotics-star.com/people) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html). Prior to this, I completed my undergraduate studies at [Northwestern Polytechnical University](https://en.nwpu.edu.cn/).
+- 🔭 I'm Mingjie Zhang (张明杰), a first-year MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://robotics-star.com/people) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html). Prior to this, I completed my undergraduate studies at [Northwestern Polytechnical University](https://en.nwpu.edu.cn/).
 - 🌱 I am currently working on **Vision-Language Navigation**, and I also conduct research in **Aerial Exploration and Reconstruction**.
 
 ## 你好鸭 👋，我是张明杰！
